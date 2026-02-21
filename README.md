@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Arjun (AI & Data Science Engineer)
 
-<!--
-**xarjunpatil/xarjunpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 B.Tech AI & DS | AI/ML Enthusiast | Vibe Coder  
+🧠 I build intelligent systems, not just code.
 
-Here are some ideas to get you started:
+## 🔥 What I Do
+- 🤖 AI Agents & LLM-powered apps
+- 📊 Machine Learning & Deep Learning
+- 🧠 Research-inspired projects
+- ⚙️ Python | TensorFlow | PyTorch | LangChain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- 🧠 Self-Reflective AI Agent
+- 🤖 Voice-Controlled AI Assistant
+- 🔍 AI Research Explainer (Beginner-friendly)
+
+## 📫 Let’s Connect
+- LinkedIn: www.linkedin.com/in/xarjunpatil
+- Portfolio: https://xarjunpatil.github.io/Arjun-s-Portfolio/
